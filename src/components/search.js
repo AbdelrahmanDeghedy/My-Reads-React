@@ -63,6 +63,14 @@ export default class Search extends Component {
                         </select>
                         </div>
                         </div>
+                        <div className="book-title">
+                            {book.title}
+                        </div>
+                        <div className="book-authors">
+                            {book.authors && (book.authors.map (author => {
+                                return <div key={book.author}> {author} </div> 
+                            }))}
+                        </div>
                     </div>
                     </li>
                 )}
