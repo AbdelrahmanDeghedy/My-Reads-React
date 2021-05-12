@@ -4,6 +4,10 @@
 
 It's an app that let's you manage books, by organizing them into different shelves, searching for a specific book, and many more.
 
+#### View the live version of the website from here:
+
+https://my-reads-react.vercel.app/
+
 ### Installation
 
 To get started developing right away:
@@ -11,9 +15,7 @@ To get started developing right away:
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 
-#### View the live version of the website from here:
 
-https://my-reads-react.vercel.app/
 
 
 ## Important
